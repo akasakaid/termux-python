@@ -1,0 +1,1 @@
+# termux-python-3.10.4
